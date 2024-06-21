@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "CCbqe+t67focwPA2cKGEobovLJ0f42cIJEIMjYxCXvw=",
+  "Source": "GameStore.FrontEnd",
+  "BasePath": "_content/GameStore.FrontEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore.FrontEnd\\wwwroot",
+      "Source": "GameStore.FrontEnd",
+      "ContentRoot": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\wwwroot\\",
+      "BasePath": "_content/GameStore.FrontEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
+      "SourceId": "GameStore.FrontEnd",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GameStore.FrontEnd",
+      "RelativePath": "GameStore.FrontEnd.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
+      "SourceId": "GameStore.FrontEnd",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GameStore.FrontEnd",
+      "RelativePath": "GameStore.FrontEnd.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\wwwroot\\app.css",
+      "SourceId": "GameStore.FrontEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\wwwroot\\",
+      "BasePath": "_content/GameStore.FrontEnd",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
