@@ -54,3 +54,4 @@ C:\Users\irwan\WorkCc\MINDEF\BlazorTraining\code-repo\GameStore.FrontEnd\obj\Deb
 C:\Users\irwan\WorkCc\MINDEF\BlazorTraining\code-repo\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.pdb
 C:\Users\irwan\WorkCc\MINDEF\BlazorTraining\code-repo\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.genruntimeconfig.cache
 C:\Users\irwan\WorkCc\MINDEF\BlazorTraining\code-repo\GameStore.FrontEnd\obj\Debug\net8.0\ref\GameStore.FrontEnd.dll
+C:\Users\irwan\WorkCc\MINDEF\BlazorTraining\code-repo\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.sourcelink.json
