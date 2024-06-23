@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\datas\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:datas\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Migrations\\20240623075543_Add_GenreName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240623075543_Add_GenreName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\datas\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:datas\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Migrations\\20240623075543_Add_GenreName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240623075543_Add_GenreName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|solutionrelative:components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844BB4C2-FECB-4322-A2B7-C41380BEBE0C}|GameStore.FrontEnd.csproj|c:\\users\\irwan\\workcc\\mindef\\blazortraining\\code-repo\\gamestore.frontend\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,8 +129,103 @@
               "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:40:36.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditGame.razor",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\EditGame.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EditGame.razor",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\EditGame.razor",
+              "RelativeToolTip": "Components\\Pages\\EditGame.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:40:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteGame.razor",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\DeleteGame.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\DeleteGame.razor",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\DeleteGame.razor",
+              "RelativeToolTip": "Components\\Pages\\DeleteGame.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T01:52:13.627Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:53:34.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Services\\GameService.cs",
+              "RelativeToolTip": "Services\\GameService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:27:09.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Datas\\SeedData.cs",
+              "RelativeDocumentMoniker": "Datas\\SeedData.cs",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Datas\\SeedData.cs",
+              "RelativeToolTip": "Datas\\SeedData.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:32:18.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:06:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20240623075543_Add_GenreName.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Migrations\\20240623075543_Add_GenreName.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623075543_Add_GenreName.cs",
@@ -139,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "GameSummary.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Models\\GameSummary.cs",
               "RelativeDocumentMoniker": "Models\\GameSummary.cs",
@@ -152,71 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Datas\\SeedData.cs",
-              "RelativeDocumentMoniker": "Datas\\SeedData.cs",
-              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Datas\\SeedData.cs",
-              "RelativeToolTip": "Datas\\SeedData.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T05:32:18.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameService.cs",
-              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Services\\GameService.cs",
-              "RelativeDocumentMoniker": "Services\\GameService.cs",
-              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Services\\GameService.cs",
-              "RelativeToolTip": "Services\\GameService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:27:09.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EditGame.razor",
-              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\EditGame.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\EditGame.razor",
-              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\EditGame.razor",
-              "RelativeToolTip": "Components\\Pages\\EditGame.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T02:40:43.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T12:40:36.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T02:53:34.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GameDetails.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Models\\GameDetails.cs",
               "RelativeDocumentMoniker": "Models\\GameDetails.cs",
@@ -229,20 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeleteGame.razor",
-              "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\DeleteGame.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\DeleteGame.razor",
-              "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\DeleteGame.razor",
-              "RelativeToolTip": "Components\\Pages\\DeleteGame.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T01:52:13.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Datas\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Datas\\ApplicationDbContext.cs",
@@ -255,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -263,11 +285,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T04:21:32.346Z"
+              "WhenOpened": "2024-06-23T04:21:32.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20240623051228_InitialSchemaCreate.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Migrations\\20240623051228_InitialSchemaCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623051228_InitialSchemaCreate.cs",
@@ -280,19 +303,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GenreService.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Services\\GenreService.cs",
               "RelativeDocumentMoniker": "Services\\GenreService.cs",
               "ToolTip": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Services\\GenreService.cs",
               "RelativeToolTip": "Services\\GenreService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA7wDEAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:27:28.533Z"
+              "WhenOpened": "2024-06-23T04:27:28.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GenreClient.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Clients\\GenreClient.cs",
               "RelativeDocumentMoniker": "Clients\\GenreClient.cs",
@@ -300,11 +324,12 @@
               "RelativeToolTip": "Clients\\GenreClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:40:46.78Z"
+              "WhenOpened": "2024-06-23T04:40:46.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "GamesClient.cs",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Clients\\GamesClient.cs",
               "RelativeDocumentMoniker": "Clients\\GamesClient.cs",
@@ -317,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -325,11 +350,12 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T01:28:21.825Z"
+              "WhenOpened": "2024-06-23T01:28:21.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -337,11 +363,12 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T00:44:04.52Z"
+              "WhenOpened": "2024-06-23T00:44:04.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Components\\Routes.razor",
@@ -349,11 +376,12 @@
               "RelativeToolTip": "Components\\Routes.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T01:29:35.106Z"
+              "WhenOpened": "2024-06-23T01:29:35.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -361,11 +389,12 @@
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T02:12:59.362Z"
+              "WhenOpened": "2024-06-23T02:12:59.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -373,11 +402,12 @@
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T01:19:18.848Z"
+              "WhenOpened": "2024-06-23T01:19:18.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\irwan\\WorkCc\\MINDEF\\BlazorTraining\\code-repo\\GameStore.FrontEnd\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
@@ -385,7 +415,8 @@
               "RelativeToolTip": "Components\\Pages\\Error.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T12:40:57.999Z"
+              "WhenOpened": "2024-06-22T12:40:57.999Z",
+              "EditorCaption": ""
             }
           ]
         },

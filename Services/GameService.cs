@@ -36,6 +36,7 @@ namespace GameStore.FrontEnd.Services
 
         public async Task<List<GameDetails>> GetGamesAsync()
         {
+            await Task.Delay(5000);
             return  await Task.FromResult(Context.Games.ToList());
         }
 

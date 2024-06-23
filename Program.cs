@@ -3,6 +3,7 @@ using GameStore.FrontEnd.Datas;
 using GameStore.FrontEnd.Services;
 using Microsoft.EntityFrameworkCore;
 
+
 using System;
 using System.Configuration;
 
@@ -11,6 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+    
 
 builder.Services.AddScoped<GameService>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>

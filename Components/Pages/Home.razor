@@ -1,5 +1,6 @@
 ﻿@page "/"
 @using GameStore.FrontEnd.Services
+@attribute [StreamRendering]
 
 @inject GameService GameService
 
@@ -56,7 +57,7 @@ else
 
 @code{
 
-    List<GameDetails>? games = new List<GameDetails>();
+    List<GameDetails>? games = null;
 
     protected override async Task OnInitializedAsync()
     {
