@@ -1,6 +1,7 @@
 ﻿@page "/"
+@using GameStore.FrontEnd.Services
 
-@inject GamesClient GamesClient
+@inject GameService GameService
 
 <PageTitle>Game Catalog</PageTitle>
 
@@ -34,7 +35,7 @@ else
             <tr>
                 <td>@game.Id</td>
                 <td>@game.Name</td>
-                <td>@game.Genre</td>
+                <td>@game.GenreName</td>
                 <td class="text-end">@game.Price.ToString("C2")</td>
                 <td>@game.ReleaseDate</td>
                 <td>
@@ -55,11 +56,11 @@ else
 
 @code{
 
-    List<GameSummary>? games = new List<GameSummary>();
+    List<GameDetails>? games = new List<GameDetails>();
 
     protected override async Task OnInitializedAsync()
     {
-        games = await GamesClient.GetGamesAsync();
+        games = await GameService.GetGamesAsync();
     }
 
     // public void DeleteGame(int id)
@@ -70,7 +71,7 @@ else
 
     private static string GameUrl(int id) => $"/editgame/{id}";
 
-    private string GetDeleteModalId(GameSummary game)
+    private string GetDeleteModalId(GameDetails game)
     {
         return $"#{DeleteGame.GetModalId(game)}";
     }

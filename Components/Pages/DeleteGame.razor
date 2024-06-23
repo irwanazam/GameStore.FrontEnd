@@ -1,4 +1,4 @@
-﻿@inject GamesClient GamesClient
+﻿@inject GameService GameService
 @inject NavigationManager NavigationManager
 
 @rendermode RenderMode.InteractiveServer
@@ -21,7 +21,7 @@
 
 @code {
     [Parameter]
-    public GameSummary? game { get; set; }
+    public GameDetails? game { get; set; }
 
     private string title = string.Empty;
 
@@ -30,11 +30,11 @@
         title = $"Delete Game {game?.Name}";
     }
 
-    public static string GetModalId(GameSummary game) => $"deleteGameModal-{game.Id}";
+    public static string GetModalId(GameDetails game) => $"deleteGameModal-{game.Id}";
 
-    public void DeleteGameById(int Id)
+    public async Task DeleteGameById(int Id)
     {
-        GamesClient.DeleteGame(Id);
+        await GameService.DeleteGameByIdAsync(Id);
         NavigationManager.Refresh();
     }
 
