@@ -1,0 +1,117 @@
+﻿@page "/editgame"
+@page "/editgame/{id:int}"
+
+@inject NavigationManager NavigationManager
+@inject GamesClient GamesClient
+
+@rendermode RenderMode.InteractiveServer
+
+<PageTitle>@title</PageTitle>
+<h3>@title</h3>
+
+<div class="row">
+    <div class="col-12">
+
+        <EditForm Model="@game" FormName="editGame" OnValidSubmit="HandleSubmit">
+            <DataAnnotationsValidator />
+            <ValidationSummary/>
+            <div class="mb-3">
+                <label for="name" class="form-label">Name</label>
+                <InputText class="form-control" id="name" @bind-Value="game.Name" />
+                <ValidationMessage For="()=> game.Name" />
+            </div>
+            <div class="mb-3">
+                <label for="genre" class="form-label">Genre</label>
+                <InputSelect class="form-select" id="name" @bind-Value="game.GenreId">
+                    <option value="">Select a genre</option>
+                    @if (genres is not null)
+                    {
+                        @foreach (var item in genres)
+                        {
+                            <option value="@item.Id">@item.Name</option>
+                        }
+                    }
+                </InputSelect>
+            </div>
+            <div class="mb-3">
+                <label for="price" class="form-label">Name</label>
+                <InputNumber class="form-control" id="price" @bind-Value="game.Price" />
+            </div>
+            <div class="mb-3">
+                <label for="releaseDate" class="form-label">ReleaseDate</label>
+                <InputDate class="form-control" id="releaseDate" @bind-Value="game.ReleaseDate" />
+            </div>
+            <button class="btn btn-primary">Save</button>
+            <a class="btn btn-secondary" role="button" href="/">Cancel</a>
+        </EditForm> 
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public int? Id { get; set; }
+
+    public string title => Id is not null ? "Edit Game" : "New Game";
+
+    [SupplyParameterFromForm]
+    private GameDetails? game { get; set; }
+
+    // private GameDetails game { get; set; } = new()
+    //     {
+    //         Name = string.Empty,
+    //         ReleaseDate = DateOnly.FromDateTime(DateTime.UtcNow)
+    //     };
+
+    private List<Genre>? genres { get; set; }
+
+    private GenreClient genreClient = new GenreClient();
+
+    //private GamesClient gamesClient = new GamesClient();
+
+    protected override void OnParametersSet()
+    {
+        if (game is not null)
+        {
+            return;
+        }
+
+        if (Id is not null)
+        {
+            game = GamesClient.GetGame(Id.Value);
+            
+        }
+        else
+        {
+            game = new()
+                {
+                    Name = string.Empty,
+                    ReleaseDate = DateOnly.FromDateTime(DateTime.UtcNow)
+                };
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        genres = await genreClient.GetGenresAsync();
+    }
+
+    public void HandleSubmit()
+    {
+        ArgumentNullException.ThrowIfNull(game);
+
+        if(Id is null)
+        {
+            GamesClient.AddGame(game);
+        }
+        else
+        {
+            game.Id = Id.Value;
+            GamesClient.UpdateGame(game);
+        }
+
+       
+        NavigationManager.NavigateTo("/");
+    }
+}
+
