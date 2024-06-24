@@ -2,7 +2,7 @@
 @page "/editgame/{id:int}"
 
 @inject NavigationManager NavigationManager
-@inject GamesClient GamesClient
+@inject GameService GameService
 
 @rendermode RenderMode.InteractiveServer
 
@@ -78,7 +78,7 @@
 
         if (Id is not null)
         {
-            game = GamesClient.GetGame(Id.Value);
+            game = GameService.GetGame(Id.Value);
             
         }
         else
@@ -102,12 +102,12 @@
 
         if(Id is null)
         {
-            GamesClient.AddGame(game);
+            GameService.AddGame(game);
         }
         else
         {
             game.Id = Id.Value;
-            GamesClient.UpdateGame(game);
+            GameService.UpdateGame(game);
         }
 
        
